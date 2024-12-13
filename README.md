@@ -6,7 +6,6 @@ The idea here is simple: fun on two wheels, stunning trails, and zero stress. Wi
 
 Inspired by this vibe, we created SoftEnduro—a platform to help every moto enthusiast (or soon-to-be enthusiast) find easy, safe, and breathtaking trails. Our mission? To make off-road adventures accessible to everyone—from seasoned riders to that one friend still figuring out the difference between a clutch and a brake.
 
----
 
 ## 🚀 **Features**
 
@@ -15,7 +14,6 @@ Inspired by this vibe, we created SoftEnduro—a platform to help every moto ent
 - ⭐ **Difficulty Ratings**: Trails are categorized by skill level to match your adventure preferences.  
 - 🌄 **Points of Interest**: Discover scenic spots and landmarks along your route.  
 
----
 
 ## 📖 **Who is SoftEnduro For?**
 
@@ -24,7 +22,6 @@ Inspired by this vibe, we created SoftEnduro—a platform to help every moto ent
 - 🛤️ **Relaxed Riders**: Prefer accessible, stress-free routes? We’ve got you covered.  
 - 👫 **Group Rides**: Plan rides for friends or family with different experience levels.  
 
----
 
 ## 🛠️ **Technologies Used**
 
@@ -34,7 +31,6 @@ This project is powered by:
 - [**Leaflet**](https://leafletjs.com/) - A powerful library for creating interactive and responsive maps.  
 - [**GPX Parser**](https://github.com) - Tools for working with GPX files to ensure seamless functionality.  
 
----
 
 ## 📋 **Getting Started**
 
@@ -42,7 +38,7 @@ To get started with **SoftEnduro**, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/softenduro.git
+   git clone https://github.com/code36u4r60/softenduro.git
    cd softenduro
    ```  
 
@@ -58,7 +54,6 @@ To get started with **SoftEnduro**, follow these steps:
 
 4. Open your browser and navigate to `http://localhost:3000` to explore SoftEnduro!  
 
----
 
 ## 🤝 **Contributing**
 
@@ -69,13 +64,9 @@ We welcome contributions! If you’d like to add a feature, fix a bug, or sugges
 4. Push your branch (`git push origin feature-branch-name`).  
 5. Open a Pull Request.  
 
----
-
 ## 🛡️ **License**
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute SoftEnduro as you like!  
-
----
 
 ## 🌟 **Acknowledgments**
 
